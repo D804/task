@@ -1,0 +1,1 @@
+{"mappings":"AAAA,IAAI,OAAO;AACX,SAAS,MAAM,CAAC;AAChB,QAAQ,GAAG,CAAC","sources":["script.js"],"sourcesContent":["let time = require()\r\nmoment().format('MMMM Do YYYY, h:mm:ss a');\r\nconsole.log(time);"],"names":[],"version":3,"file":"index.672d4772.js.map","sourceRoot":"/__parcel_source_root/"}
